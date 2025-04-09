@@ -49,7 +49,7 @@ The Airbnb dataset includes the following fields:
 We created multiple visual reports and KPIs to analyze and interpret the dataset effectively:
 
 1. **Average Price by Neighbourhood (Filtered by Room Type)**
-2. **Total Bookings by Month and Neighbourhood Group**
+2. **Total Bookings by Month and Neighbourhood Group (Filtered by Room Type)**
 3. **Total Neighbourhoods by Neighbourhood Group**
 4. **Top 10 Hosts by Total Reviews**
 5. **Total Bookings by Room Type and Neighbourhood Group**

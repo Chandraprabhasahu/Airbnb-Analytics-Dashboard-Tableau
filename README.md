@@ -104,10 +104,13 @@ We created multiple visual reports and KPIs to analyze and interpret the dataset
 ---
 
 ##  How to Access Dashboard
+
 To view the interactive Tableau dashboard:
-1. Download the `.twbx` file from the `/dashboard` folder.
-2. Open it using Tableau Desktop or Tableau Public.
-3. Interact with filters to explore pricing, booking trends, and reviews.
+
+1. Visit the live dashboard on [Tableau Public](https://public.tableau.com/views/Airbnb_Analytics_Dashboard/Airbnb_Dashboard).
+2. Or download the `.twbx` file from the repository.
+3. Open it using Tableau Desktop or Tableau Public to interact with filters and explore pricing, booking trends, and reviews.
+
 
 ---
 

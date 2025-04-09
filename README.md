@@ -74,8 +74,8 @@ We created multiple visual reports and KPIs to analyze and interpret the dataset
 
 ---
 
-## 📷 Dashboard Preview
-![Airbnb Analytics Dashboard Preview](./images/dashboard-preview.png)
+##  Dashboard Preview
+![Airbnb Analytics Dashboard Preview](./images/Airbnb_Dashboard.png)
 
 
 ---
@@ -98,7 +98,7 @@ We created multiple visual reports and KPIs to analyze and interpret the dataset
 ├── images/
 │   └── dashboard-preview.png
 ├── README.md
-└── project-report.pdf
+
 ```
 
 ---
